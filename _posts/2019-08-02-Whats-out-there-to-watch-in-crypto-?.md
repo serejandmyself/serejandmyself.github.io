@@ -4,6 +4,8 @@ title: Whats out there to read in crypto?
 categories: [crypto]
 ---
 
+# Whats out there to read in crypto?
+
 Here is to a topic that I have been waiting to write for a while about. One about crypto-bloggers, crypto-chats and all the other shit you should (not) be spending your most valuable resource on - your time.
 
 And I’m not planning to write a list of people you should follow; quite the opposite I guess.
