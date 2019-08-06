@@ -5,11 +5,12 @@ email:
 description: The "no bullshit" blog
 twitter_username: sergeys1234
 github_username:  serejandmyself
+url: https://blocksult.com/
 
 # Build settings
 markdown: kramdown
 theme: minima
-
-# Add ons
-  plugins:
+plugins:
     - jekyll-seo-tag
+    - jekyll-feed
+    - jekyll-analytics
