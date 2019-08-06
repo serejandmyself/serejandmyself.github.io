@@ -3,6 +3,8 @@ layout: post
 title: Shit coins attack or follow the price
 ---
 
+# Shit coins attack or follow the price
+
 I am in the midst of writing an article about the future development of the blockchain technology (of course from a very subjective point of view). Will share it soon, I hope.
 
 Meanwhile, I would like to address a small question: "Is it ok, that altcoins keep on multiplying like crazy?"
