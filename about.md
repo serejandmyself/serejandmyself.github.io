@@ -7,7 +7,7 @@ This is a crypto-related blog, run by myself - [@serejandmyself](https://github.
 
 No ads, no bullshit, no pictures. 
 
-You will find here all my English posts about crypto, anrchy, economics, anti-politics and other related topics
+Here, you will find all my posts about crypto, technology, anarchy, economics, anti-politics and other related topics
 
 ## Links to what is important
 
