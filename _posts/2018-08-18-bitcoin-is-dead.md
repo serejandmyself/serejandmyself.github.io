@@ -3,6 +3,8 @@ layout: post
 title: Bitcoin is dead. Long live "the" Bitcoin 
 ---
 
+# Bitcoin is dead. Long live "the" Bitcoin 
+
 At the beginning there was … code, and people saw that the code was good. So they have decided to mine… As most of you probably know by now, then came the first buy (thanks Laszlo), mt. gox, silk road, the first to “ze moon”, altcoin revolution, blockchain 2.0…. You name it, but a few.
 
 As we can see, each “crypto decade” can be divided into rounds of hype. Though, to be honest, the hype doesn't build itself up from scratch. It arises. Following the technological progress, the industry is making.  
