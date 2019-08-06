@@ -3,6 +3,8 @@ layout: post
 title: Bitcoin - a barter technology or a means of communication?
 ---
 
+# Bitcoin: a barter technology or a means of communication?
+
 A lot of people ask themselves the question of whether bitcoin is nothing but a return to the essence of money exchange between human beings. In other words, is bitcoin not more than just a return to “barter economics”?
 
 Well, no, no and once again no. Bitcoin by all means, cannot represent barter economics. It simply has much more qualities than what can be classified as a means of barter. 
