@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Great First Post
+title: Whats out there to read in crypto?
 ---
 
 Here is to a topic that I have been waiting to write for a while about. One about crypto-bloggers, crypto-chats and all the other shit you should (not) be spending your most valuable resource on - your time.
