@@ -3,6 +3,8 @@ layout: post
 title: Protect the rich
 ---
 
+# Protect the rich
+
 My "Facshiste" feed (and same goes for more and more everyday talks that I hear) is recently full of c***y posts about the need to protect ICO investors; about the need to introduce laws in order to protect the investors and so on...
 
 [Eleanor Roosevelt](https://en.wikipedia.org/wiki/Eleanor_Roosevelt) had once said:
