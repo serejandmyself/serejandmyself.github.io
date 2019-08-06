@@ -1,11 +1,10 @@
 # Basic options
-title: Blocksult 
-author: GitHub User
-email: simanovskys@yandex.ru
-description: No bullshit blog
+title: The blog 
+author: serejandmyself
+email: 
+description: The "no bullshit" blog
 twitter_username: sergeys1234
 github_username:  serejandmyself
-website: https://blocksult.com
 
 # Build settings
 markdown: kramdown
