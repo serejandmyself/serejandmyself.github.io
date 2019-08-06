@@ -9,3 +9,7 @@ github_username:  serejandmyself
 # Build settings
 markdown: kramdown
 theme: minima
+
+# Add ons
+  plugins:
+    - jekyll-seo-tag
