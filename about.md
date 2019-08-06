@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+permalink: /about/
 ---
 
 This is a crypto-related blog, run by myself - [@serejandmyself](https://github.com/serejandmyself)
