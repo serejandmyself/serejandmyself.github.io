@@ -1,1 +1,1 @@
-# serejandmyself.github.io
+# No bullshit blog: serejandmyself.github.io
