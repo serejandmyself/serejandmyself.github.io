@@ -3,13 +3,14 @@ layout: page
 title: About
 ---
 
-This is an about page about this awesome site.
-Hope you love it!
+This is a crypto-related blog, run by myself - [@serejandmyself](https://github.com/serejandmyself)
 
-Reasons:
-- its great.
-- its a test.
+No ads, no bullshit, no pictures. 
 
-## Other thoughts
+You will find here all my English posts about crypto, anrchy, economics, anti-politics and other related topics
 
-This is great.
+## Links to what is important
+
+- [Telegram Group](https://t.me/blocksult)
+- [Website](https://blocksult.com/)
+- [Twitter](https://twitter.com/sergeys1234)
