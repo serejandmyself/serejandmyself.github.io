@@ -1,6 +1,8 @@
 ---
 layout: post
 title: What is money?
+categories:
+- blog
 ---
 
 # What is money?
