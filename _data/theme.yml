@@ -6,7 +6,7 @@ highlight_color: '#3498db'
 # Profile links on the left sidebar, leave blank to ignore
 social:
   github: serejandmyself
-  telegram: blocksultru
+  telegram: blocksult
   #bitbucket: 
   #hacker_news: 
   #stackexchange: 
@@ -31,4 +31,4 @@ google_analytics_key:
 show_disclaimer: true
 
 # Toggle link/icon to view atom feed (/atom.xml) in sidebar
-show_atom_feed: false
+show_atom_feed: true
