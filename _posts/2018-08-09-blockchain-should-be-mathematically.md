@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blockchain should be a mathematically proven algorithm with no single point of control
+title: Blockchain should be a mathematically proven algorithm
 categories:
 - blog
 ---
