@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Whats out there to read in crypto?
-categories: [crypto]
+categories:
+- blog
 ---
 
 # Whats out there to read in crypto?
