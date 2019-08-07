@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Protect the rich
+categories:
+- blog
 ---
 
 # Protect the rich

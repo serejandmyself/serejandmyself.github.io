@@ -1,6 +1,8 @@
 ---
 layout: post
-title: Bitcoin - a barter technology or a means of communication?
+title: Bitcoin: a barter technology or a means of communication?
+categories:
+- blog
 ---
 
 # Bitcoin: a barter technology or a means of communication?

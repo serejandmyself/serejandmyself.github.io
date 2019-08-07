@@ -1,6 +1,8 @@
 ---
 layout: post
-title: Bitcoin is dead. Long live "the" Bitcoin 
+title: Bitcoin is dead. Long live "the" Bitcoin
+categories:
+- blog
 ---
 
 # Bitcoin is dead. Long live "the" Bitcoin 

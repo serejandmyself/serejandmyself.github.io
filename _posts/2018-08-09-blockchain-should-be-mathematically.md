@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Blockchain should be a mathematically proven algorithm with no single point of control
+title: Blockchain should be a mathematically proven algorithm
+categories:
+- blog
 ---
-
 # Blockchain should be a mathematically proven algorithm with no single point of control
 
 I have been long enough around the crypto space and I have seen many things have recently changed. From the hype of “stamping” out coins (forks), where you would spend up to 8 hours a day in the “ANN” threads of bitcointalk to the latest ICO craze in 2017-18.

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Shit coins attack or follow the price
+categories:
+- blog
 ---
 
 # Shit coins attack or follow the price

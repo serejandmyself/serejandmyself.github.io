@@ -1,0 +1,34 @@
+# Theme customization 
+
+# Color for top bar, links, etc
+highlight_color: '#3498db'
+
+# Profile links on the left sidebar, leave blank to ignore
+social:
+  github: serejandmyself
+  telegram: blocksultru
+  #bitbucket: 
+  #hacker_news: 
+  #stackexchange: 
+  #stackoverflow: 
+  twitter: sergeys1234
+  #facebook: 
+  #tumblr: 
+  #linkedin: 
+  #gplus: 
+  #gravatar: 
+  #flickr: 
+
+# "The blog, jump to the rabbit hole"
+name: 
+email: 
+tagline:
+
+# Google Analytics key, leave blank to ignore
+google_analytics_key: 
+
+# Toggle "Postings are my own" disclaimer in footer
+show_disclaimer: true
+
+# Toggle link/icon to view atom feed (/atom.xml) in sidebar
+show_atom_feed: false
