@@ -1,4 +1,4 @@
-# serejandmyself - the "no-bullshit" blog
+# serejandmyself: the "no-bullshit" blog
 
 The blog for all my English posts.
 
