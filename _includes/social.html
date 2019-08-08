@@ -5,12 +5,6 @@ Follow me:
     <i class="fa fa-github-square"></i>
   </a>
   {% endif %}
-
-  {% if site.data.theme.social.telegram %}
-  <a title="{{ site.data.theme.social.telegram }} on Telegram" href="https://t.me/{{ site.data.theme.social.telegram }}">
-    <i class="fa fa-telegram-plane"></i>
-  </a>
-  {% endif %}
   
   {% if site.data.theme.social.bitbucket %}
   <a title="{{ site.data.theme.social.bitbucket }} on Bitbucket" href="https://bitbucket.com/{{ site.data.theme.social.bitbucket }}/">
@@ -75,6 +69,12 @@ Follow me:
   {% if site.data.theme.show_atom_feed %}
   <a title="Atom feed" id="atom" href="/atom.xml">
     <i class="fa fa-rss-square"></i>
+  </a>
+  {% endif %}
+  
+  {% if site.data.theme.social.telegram %}
+  <a title="{{ site.data.theme.social.telegram }} on Telegram" href="https://t.me/{{ site.data.theme.social.telegram }}">
+    <i class="fa fa-telegram-plane"></i>
   </a>
   {% endif %}
 </div>
