@@ -1,14 +1,11 @@
 # serejandmyself: the "no-bullshit" blog
 
-The blog for all my English posts.
-
-[Visit the rabbit hole](https://blocksult.com) <br>
-[Join the telegram group](https://t.me/blocksult)
+- [Visit the rabbit hole](https://serejandmyself.github.io/)
+- [Join the telegram group](https://t.me/blocksult)
 
 ---------------------------------
 
-Build using Jekyll, gh-pages and the [lagom template](https://github.com/swanson/lagom). <br>
-If you wish to use Lagom, please follow the instructions below:
+Build using Jekyll, gh-pages and the [lagom template](https://github.com/swanson/lagom). If you wish to use Lagom, please follow the instructions below:
 
 # Lagom
 
