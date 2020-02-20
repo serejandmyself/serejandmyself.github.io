@@ -1,7 +1,10 @@
-# serejandmyself: the "no-bullshit" blog
+# serejandmyself: The no bullshit blog
 
 - [Visit the rabbit hole](https://serejandmyself.github.io/)
+- [Privacy Basics](https://serejandmyself.github.io/Privacy-Basics/)
 - [Join the telegram group](https://t.me/blocksult)
+- [cyber.page](http://cyber.page/)
+- [Twitter](https://twitter.com/serejandmyself)
 
 ---------------------------------
 
