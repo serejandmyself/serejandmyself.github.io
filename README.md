@@ -5,9 +5,11 @@
 
 ---------------------------------
 
+## Information about the blog style
+
 Build using Jekyll, gh-pages and the [lagom template](https://github.com/swanson/lagom). If you wish to use Lagom, please follow the instructions below:
 
-# Lagom
+### Lagom
 
 > #### *Lagom* is a Swedish word with no direct English equivalent, meaning "just the right amount"
 
@@ -22,7 +24,7 @@ Extracted lovingly from [http://mdswanson.com][mds] for your enjoyment!
 * Open Sans from [Google web fonts][gfonts]
 * Built-in Atom feed
 
-## Installation
+### Installation
 
 - [Fork this repository][fork]
 - Clone it: `git clone https://github.com/YOUR-USER/lagom`
@@ -31,7 +33,7 @@ Extracted lovingly from [http://mdswanson.com][mds] for your enjoyment!
 
 You should have a server up and running locally at <http://localhost:4000>.
 
-## Customization
+### Customization
 
 Next you'll want to change a few things. Most of them can be changed directly in
 [theme.yml][config]. That's where you can add your social links, change the accent
