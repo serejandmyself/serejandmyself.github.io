@@ -4,6 +4,7 @@
 - [Privacy Basics](https://serejandmyself.github.io/Privacy-Basics/)
 - [Join the telegram group](https://t.me/blocksult)
 - [cyber.page](http://cyber.page/)
+- [Citizen Cosmos podcast](https://anchor.fm/citizencosmos/)
 - [Twitter](https://twitter.com/serejandmyself)
 
 ---------------------------------
