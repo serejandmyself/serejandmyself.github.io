@@ -25,7 +25,7 @@ email:
 tagline:
 
 # Google Analytics key, leave blank to ignore
-google_analytics_key: UA-146122564-1
+google_analytics_key:
 
 # Toggle "Postings are my own" disclaimer in footer
 show_disclaimer: true
