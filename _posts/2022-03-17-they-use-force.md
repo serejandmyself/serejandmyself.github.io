@@ -11,7 +11,7 @@ Seems that people have lost touch with self, with reality. Instead of caring abo
 
 It is sad seeing people fight themselves rather than evolving as a species. Whatever happened to the dreams of Carl Sagan, Jules Verne, Arthur C Clark? It is depressive to see people still believing that the old system is dominating. Wake up, Neo - it's not! Simple M0 arithmetic (thanks to my friend Dima for the math) and simple value calculations will help you to understand that the shift has already happened! Look around you... We live in a full scale war. Informational, economical and physical. Those few beneficiaries that control the old system are making you pay.
 
-Fck old money. Fck old power. Fck old rules. FUCK rules. Fck minority power. Not the minorities. Fck all of those who see black and white.
+Fuck old money. Fuck old power. Fuck old rules. FUCK rules. Fuck minority power. Not the minorities. Fuck all of those who see black and white.
 
 Start searching and investigating these systems. They are here. They are taking over. Start being independent of social networks (the irony of these words...), delete tracking apps and messengers from your phone and PC. Stop using the dollar or the euro unless you must (remember that every time you do, you keep supporting war, famine, slavery and unethical experiments on which your government is spending money on from what they steal from you). Use alternative P2P tech wherever you can. Start accepting that data is more valuable. That's their means of control. If they don't control data, they don't control you...
 
