@@ -1,7 +1,7 @@
 # serejandmyself: The no bullshit blog
 
 - [Visit the rabbit hole](https://serejandmyself.github.io/)
-- [Citizen Cosmos podcast](https://www.citizencosmos.space/)
+- [Citizen Web3 podcast](https://www.citizenweb3/com)
 - [Twitter](https://twitter.com/serejandmyself)
 
 ---------------------------------
